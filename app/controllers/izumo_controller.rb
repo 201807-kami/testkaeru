@@ -1,0 +1,2 @@
+class IzumoController < ApplicationController
+end
