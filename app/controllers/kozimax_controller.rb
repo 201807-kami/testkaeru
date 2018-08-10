@@ -1,0 +1,2 @@
+class KozimaxController < ApplicationController
+end
