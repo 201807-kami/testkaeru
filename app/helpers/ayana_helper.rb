@@ -1,0 +1,2 @@
+module AyanaHelper
+end

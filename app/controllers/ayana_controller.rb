@@ -1,0 +1,2 @@
+class AyanaController < ApplicationController
+end
